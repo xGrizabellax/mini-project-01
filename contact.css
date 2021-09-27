@@ -1,0 +1,17 @@
+h1, nav {
+    text-align: center;
+    color: gold;
+    border: 2px solid white;
+    padding: 10px;
+
+}
+#contactbox {
+    border: 5px solid red;
+    color: green;
+    background-color: yellow;
+}
+
+body {
+    background-color: forestgreen;
+
+}

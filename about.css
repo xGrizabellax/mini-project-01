@@ -1,0 +1,22 @@
+body {
+    background-color: royalblue;
+
+}
+
+nav {
+    text-align: center;
+}
+
+h1 {
+    border: 20px solid white;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    border: 5px solid yellow;
+    text-align: center;
+    color: yellow;
+    background-color: red;
+}
